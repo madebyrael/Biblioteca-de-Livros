@@ -19,6 +19,7 @@
 
 ## 3. Regras do Programa
 - Um livro só pode ser registrado uma vez;
+- Não é possível pegar emprestado um livro que já está em mãos de algum usuário;
 - Um usuário só pode ser cadastrado uma vez;
 - Um usuário só pode pegar um livro por vez;
-- Não é possível pegar emprestado um livro que já está em mãos de algum usuário;
+- O usuário precisa ser maior de idade(16 anos) para se cadastrar;
